@@ -18,13 +18,7 @@ public class AliSmsTest {
 
         String code = sendSms.Random6();
         System.out.println(code);
-        sendSms.sendSms("13633012771", code);
+        sendSms.sendSms("自己的号码", code);
 
-
-
-
-//        System.err.println(AliSmsUtils.sendSms("13633012771", "666666"));
-//        System.err.println(AliSmsUtils.sendSms("15224664012", "543210"));
-//        System.err.println(AliSmsUtils.sendSms("18790842260", "6666"));
     }
 }
