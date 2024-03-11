@@ -384,6 +384,8 @@ value:application/json
 
 感谢观看！~
 
+**最后提醒，如果你调用了ali的AssessKey，上传github或者gitee的时候请不要暴露ASsessKey**
+
 
 
 
